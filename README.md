@@ -3,12 +3,12 @@ R2SNs provide a novel, reliable and biologically plausible method to understand 
 
 
 ## Source
-If you used R2SN_code, please cite this orignal paper.[Original Paper](https://direct.mit.edu/netn/article/5/3/783/101835/Regional-radiomics-similarity-networks-R2SNs-in)
+If you have used R2SN_code, please cite this orignal paper: [Original Paper](https://direct.mit.edu/netn/article/5/3/783/101835/Regional-radiomics-similarity-networks-R2SNs-in)
 
 Zhao K, Zheng Q, Che T, et al. Regional radiomics similarity networks (R2SNs) in the human brain: Reproducibility, small-world properties and a biological basis [J]. Network Neuroscience, 2021, 1-15.
 
 ## Installation
-## Install option 1 (for installing the R2SN_construction code in a chosen directory): clone repository, install locally
+### Install option 1 (for installing the R2SN_construction code in a chosen directory): clone repository, install locally
 
 1) [Clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
@@ -16,11 +16,11 @@ Zhao K, Zheng Q, Che T, et al. Regional radiomics similarity networks (R2SNs) in
 
        pip install .
 
-## Install option 2: direct install from Pypi
+### Install option 2: direct install from Pypi
 
        pip install R2SN
 
-##Dependencies
+## Dependencies
 - Python >= 3.8
 - [Nibabel >= 3.2.1](https://github.com/nipy/nibabel)
 - [Pyradiomics >= 3.0.1](https://github.com/AIM-Harvard/pyradiomics)
