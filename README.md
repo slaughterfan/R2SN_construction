@@ -3,7 +3,7 @@ R2SNs provide a novel, reliable and biologically plausible method to understand 
 
 
 ## Source
-If you have used R2SN_code, please cite this orignal paper: [Original Paper](https://direct.mit.edu/netn/article/5/3/783/101835/Regional-radiomics-similarity-networks-R2SNs-in)
+If you use R2SN_code, we would apreciate your citations: [Original Paper](https://direct.mit.edu/netn/article/5/3/783/101835/Regional-radiomics-similarity-networks-R2SNs-in)
 
 Zhao K, Zheng Q, Che T, et al. Regional radiomics similarity networks (R2SNs) in the human brain: Reproducibility, small-world properties and a biological basis [J]. Network Neuroscience, 2021, 1-15.
 
