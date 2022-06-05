@@ -1,16 +1,13 @@
 # R2SN_construction
-=============
 R2SNs provide a novel, reliable and biologically plausible method to understand human morphological covariance based on sMRI.
 
 
 ## Source
-=============
 If you used R2SN_code, please cite this orignal paper.[Original Paper](https://direct.mit.edu/netn/article/5/3/783/101835/Regional-radiomics-similarity-networks-R2SNs-in)
 
 Zhao K, Zheng Q, Che T, et al. Regional radiomics similarity networks (R2SNs) in the human brain: Reproducibility, small-world properties and a biological basis [J]. Network Neuroscience, 2021, 1-15.
 
 ## Installation
-=============
 ## Install option 1 (for installing the R2SN_construction code in a chosen directory): clone repository, install locally
 
 1) [Clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
@@ -24,7 +21,6 @@ Zhao K, Zheng Q, Che T, et al. Regional radiomics similarity networks (R2SNs) in
        pip install R2SN
 
 ##Dependencies
-============
 - Python >= 3.8
 - [Nibabel >= 3.2.1](https://github.com/nipy/nibabel)
 - [Pyradiomics >= 3.0.1](https://github.com/AIM-Harvard/pyradiomics)
@@ -46,6 +42,7 @@ if __name__ == '__main__':
 	feature_extraction.R2SN_feature_extract(Image_path = Image_path,  
                                            			Network_output_path = Network_output_path,  
                                             			n_jobs = n_jobs)  
+```
 
 ## Note
 Here, the image_path is the ***dir*** of your original file. The Network_out_path is the ***dir*** of your choosed ouput dir. n_jobs is means the number of jobs runing simultaneously.
