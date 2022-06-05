@@ -1,5 +1,5 @@
 # R2SN_construction
-R2SNs provide a novel, reliable and biologically plausible method to understand human morphological covariance based on sMRI.
+**R2SN** provide a novel, reliable and biologically plausible method to understand human morphological covariance based on sMRI.
 
 
 ## Source
