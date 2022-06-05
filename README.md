@@ -8,7 +8,7 @@ The registeration section is based on ANTs toolkit.
 If you used R2SN_code, please refer this orignal paper.
 [Original Paper](https://direct.mit.edu/netn/article/5/3/783/101835/Regional-radiomics-similarity-networks-R2SNs-in)
 
-### Installation
+#### Installation
 This package can support two systems, you can choose the system followed your computer as "system==Windows" or "system==linux". Here, if you choose ***"system==Windows"*** , you should download the [ANTs windows](https://github.com/ANTsX/ANTs/releases). Otherwise, the [ANTspy](https://github.com/ANTsX/ANTsPy) code is needed if you choose ***"system=linux"***. The author suggest the ubuntu revison first.
 
 There are two ways to install the R2SN_code.
